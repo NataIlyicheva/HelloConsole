@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\lections_C#\triangle\bin\Debug\net6.0\triangle.exe
+C:\Users\User\Desktop\GB\lections_C#\triangle\bin\Debug\net6.0\triangle.deps.json
+C:\Users\User\Desktop\GB\lections_C#\triangle\bin\Debug\net6.0\triangle.runtimeconfig.json
+C:\Users\User\Desktop\GB\lections_C#\triangle\bin\Debug\net6.0\triangle.dll
+C:\Users\User\Desktop\GB\lections_C#\triangle\bin\Debug\net6.0\triangle.pdb
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.dll
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\refint\triangle.dll
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.pdb
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\triangle.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\lections_C#\triangle\obj\Debug\net6.0\ref\triangle.dll
