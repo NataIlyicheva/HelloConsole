@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\bin\Debug\net6.0\hello_user.exe
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\bin\Debug\net6.0\hello_user.deps.json
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\bin\Debug\net6.0\hello_user.runtimeconfig.json
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\bin\Debug\net6.0\hello_user.dll
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\bin\Debug\net6.0\hello_user.pdb
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.dll
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\refint\hello_user.dll
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.pdb
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\hello_user.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\semi_1_C#\semi_30sept\hello_user\obj\Debug\net6.0\ref\hello_user.dll
