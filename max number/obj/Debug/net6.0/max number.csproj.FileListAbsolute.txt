@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\lections_C#\max number\bin\Debug\net6.0\max number.exe
+C:\Users\User\Desktop\GB\lections_C#\max number\bin\Debug\net6.0\max number.deps.json
+C:\Users\User\Desktop\GB\lections_C#\max number\bin\Debug\net6.0\max number.runtimeconfig.json
+C:\Users\User\Desktop\GB\lections_C#\max number\bin\Debug\net6.0\max number.dll
+C:\Users\User\Desktop\GB\lections_C#\max number\bin\Debug\net6.0\max number.pdb
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.dll
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\refint\max number.dll
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.pdb
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\max number.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\lections_C#\max number\obj\Debug\net6.0\ref\max number.dll
